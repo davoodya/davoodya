@@ -1,80 +1,87 @@
-# 👋 Hey, I'm Davood (DavoodSec)
+<h1 align="center">🛡️ Davood Ya | @DavoodSec</h1>
+<p align="center">
+  Red Team Developer · Cybersecurity Instructor · Security Tool Creator
+</p>
 
-<!-- Short bio with emphasis on brand and expertise -->
-**Red Team Developer · Ethical Hacker · Security Researcher**
-
-:contentReference[oaicite:2]{index=2}
-
-- :contentReference[oaicite:3]{index=3}  
-- :contentReference[oaicite:4]{index=4}  
-- :contentReference[oaicite:5]{index=5}  
-
----
-
-## 🚀 Pinned Tools & Projects
-
-### 🔐 C2 Frameworks & Backdoors
-- :contentReference[oaicite:6]{index=6}
-- :contentReference[oaicite:7]{index=7}
-
-### 🧰 Cracking & Pentest Tools
-- :contentReference[oaicite:8]{index=8}
-- :contentReference[oaicite:9]{index=9}
-
-### 🔄 Sync & Networking Utilities
-- :contentReference[oaicite:10]{index=10}
-- :contentReference[oaicite:11]{index=11}
-
-### 📝 Ransomware POC & Malware Research
-- :contentReference[oaicite:12]{index=12}
-
-### 🧩 Miscellaneous
-- :contentReference[oaicite:13]{index=13}
+<p align="center">
+  <a href="https://davoodya.ir" target="_blank">🌐 Website</a> •
+  <a href="https://www.youtube.com/@DavoodSec" target="_blank">🎥 YouTube</a> •
+  <a href="https://github.com/davoodya" target="_blank">💻 GitHub</a> •
+  <a href="https://instagram.com/yakuzacybersec" target="_blank">📸 Instagram</a>
+</p>
 
 ---
 
-## 🧠 Why These Projects?
+### 🚀 Who Am I?
 
-- :contentReference[oaicite:14]{index=14}
-- :contentReference[oaicite:15]{index=15}
-- :contentReference[oaicite:16]{index=16}
+Hi, I'm **Davood Ya**, also known as **DavoodSec**, a passionate cybersecurity developer from Iran 🇮🇷.  
+I specialize in creating **offensive security tools**, **custom C2 frameworks**, and **educational content** for ethical hacking and system defense.
 
----
-
-## 🛠 How to Get Started
-
-1. :contentReference[oaicite:17]{index=17}
-2. :contentReference[oaicite:18]{index=18}
-3. :contentReference[oaicite:19]{index=19}
-4. :contentReference[oaicite:20]{index=20}
+I believe the best way to **learn security is by building it from scratch**.
 
 ---
 
-## 📚 Next Steps
+### 🧰 Key Tools & Projects
 
-- :contentReference[oaicite:21]{index=21}
-- :contentReference[oaicite:22]{index=22}
-- :contentReference[oaicite:23]{index=23}
+#### 🔐 C2 / Backdoor Systems
+- [C2‑YakuzaDesign](https://github.com/davoodya/C2-YakuzaDesign) – Modular Python C2 framework for post-exploitation & training.
+- [YakuzaBackdoor_Undetectable](https://github.com/davoodya/YakuzaBackdoor_Undetectable) – Stealth backdoor prototype with encoded payload.
+
+#### 🧨 Cracking & Pentest Tools
+- [YakuzaCracker](https://github.com/davoodya/YakuzaCracker) – Brute-force/dictionary password and file cracking tool.
+- [pythonInBlack](https://github.com/davoodya/pythonInBlack) – Pentest scripts & utilities in Python.
+
+#### 🔄 Sync & Remote Control
+- [Syncer](https://github.com/davoodya/Syncer) – Share clipboard and files between Linux & Windows using hotkeys.
+- [HTTP/HTTPS AttackerPentester](https://github.com/davoodya) – (More info coming soon...)
+
+#### 🧪 Ransomware POC & Malware R&D
+- Fully built ransomware for educational use (not public) – tested encryption/decryption logic and C2 control.
 
 ---
 
-## 🙋‍♂️ Let's Connect
+### 🛠 Tech Stack & Skills
 
-- :contentReference[oaicite:24]{index=24}
-- :contentReference[oaicite:25]{index=25}
-- 📷 Instagram: @yakuzacybersec  
-- :contentReference[oaicite:26]{index=26}
+- 💻 **Languages**: Python, C++, C#
+- 🐧 **Systems**: Linux, Windows, VMware
+- 🌐 **Networking**: Routing, MikroTik, Firewalling
+- 🧠 **Other**: Reverse Engineering, Automation, Custom Tool Dev
 
 ---
 
-## 📌 Tags
-:contentReference[oaicite:27]{index=27}
+### 📺 Learn From Me
+
+- **🧠 Tutorials & Tools:**  
+  On [YouTube - @DavoodSec](https://www.youtube.com/@DavoodSec)
+
+- **📘 Articles, Guides & Writeups:**  
+  At [davoodya.ir](https://davoodya.ir)
+
+- **📦 Sample Students Projects & Tools:**  
+  Coming soon...
+
+---
+
+### 📬 Let’s Connect
+
+- 📸 Instagram: [@yakuzacybersec](https://instagram.com/yakuzacybersec)
+- 📧 Email: contact@davoodya.ir (or add your actual contact)
+- 📥 Telegram: t.me/yakuzacybersec
+
+---
+
+### 🏷️ Tags
+`#ethicalhacking` `#offensivesecurity` `#redteam` `#python` `#c2framework` `#malwareanalysis` `#cybersecurity` `#network` `#pentest`
 
 ---
 
 ### ⚠️ Disclaimer
-:contentReference[oaicite:28]{index=28}
+
+All tools and code in this GitHub are for **educational and authorized environments only**.  
+Use of any tool without permission is strictly prohibited and against the law.
 
 ---
 
-*Last updated: 2025‑06‑08*
+<p align="center">
+  Built with ❤️ by DavoodSec | Updated: June 2025
+</p>
