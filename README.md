@@ -17,7 +17,7 @@
 Hi, I'm **Davood Ya**, also known as **DavoodSec**, a passionate cybersecurity developer from Iran 🇮🇷.  
 I specialize in creating **offensive security tools**, **custom C2 frameworks**, and **educational content** for ethical hacking and system defense.
 
-I believe the best way to **learn security is by building it from scratch**.
+> 💡 I believe the best way to **learn security is by building it from scratch.**
 
 ---
 
@@ -65,12 +65,13 @@ I believe the best way to **learn security is by building it from scratch**.
 ### 📬 Let’s Connect
 
 - 📸 Instagram: [@yakuzacybersec](https://instagram.com/yakuzacybersec)
-- 📧 Email: contact@davoodya.ir (or add your actual contact)
-- 📥 Telegram: t.me/yakuzacybersec
+- 📧 Email: contact@davoodya.ir
+- 📥 Telegram: [t.me/yakuzacybersec](https://t.me/yakuzacybersec)
 
 ---
 
 ### 🏷️ Tags
+
 `#ethicalhacking` `#offensivesecurity` `#redteam` `#python` `#c2framework` `#malwareanalysis` `#cybersecurity` `#network` `#pentest`
 
 ---
@@ -83,5 +84,5 @@ Use of any tool without permission is strictly prohibited and against the law.
 ---
 
 <p align="center">
-  Built with ❤️ by DavoodSec | Updated: June 2025
+  🧠 Built with ❤️ by DavoodSec • Updated: June 2025
 </p>
