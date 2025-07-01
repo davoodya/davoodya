@@ -7,7 +7,8 @@
   <a href="https://davoodya.ir" target="_blank">🌐 Website</a> •
   <a href="https://www.youtube.com/@DavoodSec" target="_blank">🎥 YouTube</a> •
   <a href="https://github.com/davoodya" target="_blank">💻 GitHub</a> •
-  <a href="https://instagram.com/yakuzacybersec" target="_blank">📸 Instagram</a>
+  <a href="https://instagram.com/davoodsec" target="_blank">📸 Instagram</a>
+  <a href="https://t.me/davoodsec" target="_blank">🔷 Telegram</a>
 </p>
 
 ---
@@ -68,7 +69,7 @@ I specialize in creating **offensive security tools** and **educational content*
 
 - 📸 Instagram: [@yakuzacybersec](https://instagram.com/davoodsec)
 - 📧 Email: davoodyahay@gmail.com
-- 📥 Telegram: [t.me/yakuzacybersec](https://t.me/yakuzacybersec)
+- 📥 Telegram: [t.me/yakuzacybersec](https://t.me/davoodsec)
 - 🔴YouTube Channel: [@DavoodSec](https://youtube.com/@DavoodSec)
 
 ---
