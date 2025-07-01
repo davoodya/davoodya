@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Davood Ya | @DavoodSec</h1>
+<h1 align="center">🛡️ Davood Yahay | @DavoodSec 🛡️</h1>
 <p align="center">
   Red Team Developer · Cybersecurity Instructor · Security Tool Creator
 </p>
@@ -33,9 +33,11 @@ I specialize in creating **offensive security tools** and **educational content*
 
 #### 🔄 Sync & Remote Control
 - [Syncer](https://github.com/davoodya/Syncer) – Share clipboard and files between Linux & Windows using hotkeys.
+- [OBS-Controller](https://github.com/davoodya/obs-controller) – A Tkinter GUI Panel for Control OBS Studio from External Panel
 - [HTTP/HTTPS AttackerPentester](https://github.com/davoodya) – (More info coming soon...)
 
-#### 🧪 Ransomware POC & Malware R&D
+#### 🔐Professional Ransomware(POC) & Malware R&D 🧪
+- Ransomware with Close Protection, Interval Delete If Not Pay, Can Hiding in EXE or ZIP Files, Three Way Encryption(AES/RSA 4096 plus Custom XOR Algorithm) to Avoid Cracking by Cyber Defense Teams
 - Fully built ransomware for educational use (not public) – tested encryption/decryption logic and C2 control only & only for POC(Proof of Concepts)
 
 ---
