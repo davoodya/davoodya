@@ -15,7 +15,7 @@
 ### 🚀 Who Am I?
 
 Hi, I'm **Davood Ya**, also known as **DavoodSec**, a passionate cybersecurity developer from Iran 🇮🇷.  
-I specialize in creating **offensive security tools**, **custom C2 frameworks**, and **educational content** for ethical hacking and system defense.
+I specialize in creating **offensive security tools** and **educational content** for ethical hacking and system defense.
 
 > 💡 I believe the best way to **learn security is by building it from scratch.**
 
@@ -36,7 +36,7 @@ I specialize in creating **offensive security tools**, **custom C2 frameworks**,
 - [HTTP/HTTPS AttackerPentester](https://github.com/davoodya) – (More info coming soon...)
 
 #### 🧪 Ransomware POC & Malware R&D
-- Fully built ransomware for educational use (not public) – tested encryption/decryption logic and C2 control.
+- Fully built ransomware for educational use (not public) – tested encryption/decryption logic and C2 control only & only for POC(Proof of Concepts)
 
 ---
 
@@ -55,7 +55,7 @@ I specialize in creating **offensive security tools**, **custom C2 frameworks**,
   On [YouTube - @DavoodSec](https://www.youtube.com/@DavoodSec)
 
 - **📘 Articles, Guides & Writeups:**  
-  At [davoodya.ir](https://davoodya.ir)
+  At [davoodya.ir](https://davoodya.ir/pages/articles)
 
 - **📦 Sample Students Projects & Tools:**  
   Coming soon...
@@ -64,9 +64,10 @@ I specialize in creating **offensive security tools**, **custom C2 frameworks**,
 
 ### 📬 Let’s Connect
 
-- 📸 Instagram: [@yakuzacybersec](https://instagram.com/yakuzacybersec)
-- 📧 Email: contact@davoodya.ir
+- 📸 Instagram: [@yakuzacybersec](https://instagram.com/davoodsec)
+- 📧 Email: davoodyahay@gmail.com
 - 📥 Telegram: [t.me/yakuzacybersec](https://t.me/yakuzacybersec)
+- 🔴YouTube Channel: [@DavoodSec](https://youtube.com/@DavoodSec)
 
 ---
 
@@ -78,11 +79,11 @@ I specialize in creating **offensive security tools**, **custom C2 frameworks**,
 
 ### ⚠️ Disclaimer
 
-All tools and code in this GitHub are for **educational and authorized environments only**.  
+All tools and code in this GitHub are for **educational, lab usage and authorized environments only**.  
 Use of any tool without permission is strictly prohibited and against the law.
 
 ---
 
 <p align="center">
-  🧠 Built with ❤️ by DavoodSec • Updated: June 2025
+  🧠 Built with ❤️ by DavoodSec 
 </p>
