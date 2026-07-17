@@ -88,5 +88,5 @@ Use of any tool without permission is strictly prohibited and against the law.
 ---
 
 <p align="center">
-  🧠 Built with ❤️ by DavoodSec 
+    Built with 🧠 by DavoodSec 
 </p>
