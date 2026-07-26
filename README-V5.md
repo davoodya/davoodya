@@ -35,17 +35,17 @@
 
 ```
                            ┌─────────────────────────────────────────────────────────────────────────────┐
-                           │  [davoodsec@kali]~$ whoami                                                  │
+                           │  [davoodsec💀kali]~$ whoami                                                 │
                            │  └─> Davood Yahay | Red Team Developer | Cybersecurity Instructor           │
                            │                                                                             │
-                           │  [davoodsec@kali]~$ cat mission.txt                                         │
+                           │  [davoodsec💀kali]~$ cat mission.txt                                        │
                            │  └─> Building offensive security tools & educational content                │
                            │      for ethical hacking and system defense from scratch.                   │
                            │                                                                             │
-                           │  [davoodsec@kali]~$ echo $PHILOSOPHY                                        │
+                           │  [davoodsec💀kali]~$ echo $PHILOSOPHY                                       │
                            │  └─> "The best way to learn security is by building it from scratch"        │
                            │                                                                             │
-                           │  [davoodsec@kali]~$ neofetch                                                │
+                           │  [davoodsec💀kali]~$ neofetch                                               │
                            │  ┌─────────────────────────────────────────────────────────────┐            │
                            │  │  OS: Kali Linux / Windows / Ubuntu                          │            │
                            │  │  Shell: Python / C++ / C#                                   │            │
@@ -54,7 +54,7 @@
                            │  │  Alias: DavoodSec | Yakuza Cyber Security                   │            │
                            │  └─────────────────────────────────────────────────────────────┘            |
                            │                                                                             │
-                           │  [davoodsec@kali]~$ cat skills.txt                                          |
+                           │  [davoodsec💀kali]~$ cat skills.txt                                         |
                            │   Offensive Security      ████████████████████████████████████████  95%     |
                            │   Python Development      ██████████████████████████████████████░░░░  90%   |
                            │   Reverse Engineering     ████████████████████████████████████░░░░░░  85%   |
@@ -70,68 +70,6 @@
 
 <br>
 
-## 🚀 About Me
-
-<div align="center">
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ YAKUZA TERMINAL v4.2 │
-│ [davoodsec@kali] ~ $ ./init.sh │
-└──────────────────────────────────────────────────────────────────────────────┘
-
-</div>
-
-<pre align="center" style="background-color:#0D1117; color:#C9D1D9; padding:20px; border-radius:10px; border:1px solid #30363D; font-family:'Courier New', monospace; font-size:13px; line-height:1.6; text-align:left; display:inline-block;">
-
-<span style="color:#69DB7C;">┌──(</span><span style="color:#FF6B6B;">davoodsec💀kali</span><span style="color:#69DB7C;">)-[</span><span style="color:#8B949E;">~</span><span style="color:#69DB7C;">]</span>
-<span style="color:#69DB7C;">└─$</span> <span style="color:#58A6FF;">whoami</span>
-<span style="color:#C9D1D9;">  └─> </span><span style="color:#FF6B6B; font-weight:bold;">Davood Yahay</span><span style="color:#C9D1D9;"> | Red Team Developer | Cybersecurity Instructor</span>
-
-<span style="color:#69DB7C;">┌──(</span><span style="color:#FF6B6B;">davoodsec💀kali</span><span style="color:#69DB7C;">)-[</span><span style="color:#8B949E;">~</span><span style="color:#69DB7C;">]</span>
-<span style="color:#69DB7C;">└─$</span> <span style="color:#58A6FF;">cat</span><span style="color:#C9D1D9;"> mission.txt</span>
-<span style="color:#C9D1D9;">  └─> Building offensive security tools & educational content</span>
-<span style="color:#C9D1D9;">      for ethical hacking and system defense from scratch.</span>
-
-<span style="color:#69DB7C;">┌──(</span><span style="color:#FF6B6B;">davoodsec💀kali</span><span style="color:#69DB7C;">)-[</span><span style="color:#8B949E;">~</span><span style="color:#69DB7C;">]</span>
-<span style="color:#69DB7C;">└─$</span> <span style="color:#58A6FF;">echo</span><span style="color:#C9D1D9;"> $PHILOSOPHY</span>
-<span style="color:#C9D1D9;">  └─> </span><span style="color:#F0C27B;">"The best way to learn security is by building it from scratch"</span>
-
-<span style="color:#69DB7C;">┌──(</span><span style="color:#FF6B6B;">davoodsec💀kali</span><span style="color:#69DB7C;">)-[</span><span style="color:#8B949E;">~</span><span style="color:#69DB7C;">]</span>
-<span style="color:#69DB7C;">└─$</span> <span style="color:#58A6FF;">neofetch</span>
-<span style="color:#C9D1D9;">  ┌────────────────────────────────────────────────────────┐</span>
-<span style="color:#C9D1D9;">  │  </span><span style="color:#FF6B6B;">OS:</span><span style="color:#C9D1D9;"> Kali Linux / Windows / Ubuntu                     │</span>
-<span style="color:#C9D1D9;">  │  </span><span style="color:#FF6B6B;">Shell:</span><span style="color:#C9D1D9;"> Python / C++ / C#                                │</span>
-<span style="color:#C9D1D9;">  │  </span><span style="color:#FF6B6B;">WM:</span><span style="color:#C9D1D9;"> Offensive Security                                │</span>
-<span style="color:#C9D1D9;">  │  </span><span style="color:#FF6B6B;">Location:</span><span style="color:#C9D1D9;"> Iran 🇮🇷                                        │</span>
-<span style="color:#C9D1D9;">  │  </span><span style="color:#FF6B6B;">Alias:</span><span style="color:#C9D1D9;"> DavoodSec | Yakuza Cyber Security                │</span>
-<span style="color:#C9D1D9;">  └────────────────────────────────────────────────────────┘</span>
-
-<span style="color:#69DB7C;">┌──(</span><span style="color:#FF6B6B;">davoodsec💀kali</span><span style="color:#69DB7C;">)-[</span><span style="color:#8B949E;">~</span><span style="color:#69DB7C;">]</span>
-<span style="color:#69DB7C;">└─$</span> <span style="color:#58A6FF;">cat</span><span style="color:#C9D1D9;"> /etc/skills.conf</span>
-
-<span style="color:#C9D1D9;">  </span><span style="color:#FF6B6B;">Offensive Security</span><span style="color:#C9D1D9;">      ████████████████████████████████████████  </span><span style="color:#69DB7C;">95%</span>
-<span style="color:#C9D1D9;">  </span><span style="color:#FF6B6B;">Python Development</span><span style="color:#C9D1D9;">      ██████████████████████████████████████░░░░  </span><span style="color:#69DB7C;">90%</span>
-<span style="color:#C9D1D9;">  </span><span style="color:#FF6B6B;">Reverse Engineering</span><span style="color:#C9D1D9;">     ████████████████████████████████████░░░░░░  </span><span style="color:#69DB7C;">85%</span>
-<span style="color:#C9D1D9;">  </span><span style="color:#FF6B6B;">Network Security</span><span style="color:#C9D1D9;">        █████████████████████████████████████░░░░░  </span><span style="color:#69DB7C;">88%</span>
-<span style="color:#C9D1D9;">  </span><span style="color:#FF6B6B;">Malware Analysis</span><span style="color:#C9D1D9;">        ████████████████████████████████████░░░░░░  </span><span style="color:#69DB7C;">85%</span>
-<span style="color:#C9D1D9;">  </span><span style="color:#FF6B6B;">C/C++ Development</span><span style="color:#C9D1D9;">       ████████████████████████████████░░░░░░░░░░  </span><span style="color:#69DB7C;">75%</span>
-<span style="color:#C9D1D9;">  </span><span style="color:#FF6B6B;">C# Development</span><span style="color:#C9D1D9;">          ██████████████████████████████░░░░░░░░░░  </span><span style="color:#69DB7C;">70%</span>
-<span style="color:#C9D1D9;">  </span><span style="color:#FF6B6B;">Linux Administration</span><span style="color:#C9D1D9;">    ██████████████████████████████████████░░░░  </span><span style="color:#69DB7C;">90%</span>
-<span style="color:#C9D1D9;">  </span><span style="color:#FF6B6B;">Windows Internals</span><span style="color:#C9D1D9;">       ████████████████████████████████████░░░░░░  </span><span style="color:#69DB7C;">85%</span>
-<span style="color:#C9D1D9;">  </span><span style="color:#FF6B6B;">Automation & Scripting</span><span style="color:#C9D1D9;">  ██████████████████████████████████████░░░░  </span><span style="color:#69DB7C;">92%</span>
-
-<span style="color:#69DB7C;">┌──(</span><span style="color:#FF6B6B;">davoodsec💀kali</span><span style="color:#69DB7C;">)-[</span><span style="color:#8B949E;">~</span><span style="color:#69DB7C;">]</span>
-<span style="color:#69DB7C;">└─$</span> <span style="color:#58A6FF;">exit</span>
-<span style="color:#C9D1D9;">  [+] Session terminated. Stay secure.</span>
-
-</pre>
-
-<div align="center">
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ [SESSION TERMINATED] │
-│ Hack ethically | Stay curious │
-└──────────────────────────────────────────────────────────────────────────────┘
-
-</div>
 
 <!-- Snake Animation -->
 <div align="center">
