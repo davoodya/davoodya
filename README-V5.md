@@ -35,17 +35,17 @@
 
 ```
                            ┌─────────────────────────────────────────────────────────────────────────────┐
-                           │  [davoodsec💀kali]~$ whoami                                                 │
+                           │  [davoodsec@kali]~$ whoami                                                  │
                            │  └─> Davood Yahay | Red Team Developer | Cybersecurity Instructor           │
                            │                                                                             │
-                           │  [davoodsec💀kali]~$ cat mission.txt                                        │
+                           │  [davoodsec@kali]~$ cat mission.txt                                         │
                            │  └─> Building offensive security tools & educational content                │
                            │      for ethical hacking and system defense from scratch.                   │
                            │                                                                             │
-                           │  [davoodsec💀kali]~$ echo $PHILOSOPHY                                       │
+                           │  [davoodsec@kali]~$ echo $PHILOSOPHY                                        │
                            │  └─> "The best way to learn security is by building it from scratch"        │
                            │                                                                             │
-                           │  [davoodsec💀kali]~$ neofetch                                               │
+                           │  [davoodsec@kali]~$ neofetch                                                │
                            │  ┌─────────────────────────────────────────────────────────────┐            │
                            │  │  OS: Kali Linux / Windows / Ubuntu                          │            │
                            │  │  Shell: Python / C++ / C#                                   │            │
@@ -54,7 +54,7 @@
                            │  │  Alias: DavoodSec | Yakuza Cyber Security                   │            │
                            │  └─────────────────────────────────────────────────────────────┘            |
                            │                                                                             │
-                           │  [davoodsec💀kali]~$ cat skills.txt                                         |
+                           │  [davoodsec@kali]~$ cat skills.txt                                          |
                            │   Offensive Security      ████████████████████████████████████████  95%     |
                            │   Python Development      ██████████████████████████████████████░░░░  90%   |
                            │   Reverse Engineering     ████████████████████████████████████░░░░░░  85%   |
