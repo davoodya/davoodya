@@ -6,20 +6,7 @@
 <!-- Green 00FF41 -->
 <!-- Animated Glitch + Typing Effect -->
 <!-- Animated Typing Lines - Alternating Pastel Colors -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=45&lines=%E2%96%BA+Offensive+Security+Developer" alt="Line 1" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=69DB7C&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=45&lines=%E2%96%BA+Red+Team+Operator+%7C+Ethical+Hacker" alt="Line 2" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=45&lines=%E2%96%BA+Building+Tools+from+Scratch" alt="Line 3" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=69DB7C&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=45&lines=%E2%96%BA+Educating+the+Next+Generation+of+Cybersecurity+Experts" alt="Line 4" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=45&lines=%E2%96%BA+Iran+%F0%9F%87%AE%F0%9F%87%B7+%7C+Yakuza+Cyber+Security" alt="Line 5" />
-
-<!-- Animated Glitch Decoration -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" alt="" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVhY2QyYzJ6dGxrMnFkNHV4NHc5eHRjcmt6b2RneXppN25sZDFxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXz4S2FDi/giphy.gif" width="120" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=180&lines=%E2%96%BA%F0%9F%94%B4+Offensive+Security+Developer;%E2%96%BA%F0%9F%9F%A2+Red+Team+Operator+%7C+Ethical+Hacker;%E2%96%BA%F0%9F%94%B4+Building+Tools+from+Scratch;%E2%96%BA%F0%9F%9F%A2+Educating+the+Next+Gen+Experts;%E2%96%BA%F0%9F%94%B4+Iran+%F0%9F%87%AE%F0%9F%87%B7+%7C+Yakuza+Cyber+Security" alt="Typing SVG" />
 <br>
 
 <!-- Social Badges with Shields -->
@@ -75,7 +62,7 @@
 └───────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<br>
 
 <!-- Snake Animation -->
 <div align="center">
@@ -282,8 +269,8 @@
 > ⚠️ **Disclaimer:** All tools and code in this GitHub are for **educational, lab usage and authorized environments only**. Use of any tool without permission is strictly prohibited and against the law.
 
 </div>
-----
-## 🏷️ Tags
+
+🏷️ Tags
 
 <div align="center">
 
