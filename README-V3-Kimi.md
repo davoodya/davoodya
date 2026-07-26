@@ -2,9 +2,10 @@
 
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:000000&height=250&section=header&text=DavoodSec&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20Developer%20%7C%20Cybersecurity%20Instructor%20%7C%20Security%20Tool%20Creator&descAlignY=55&descSize=18" width="100%" />
-<!-- FF0000 -->
+<!-- RED FF0000 -->
+<!-- Green 00FF41 -->
 <!-- Animated Glitch + Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=160&lines=%E2%96%BA+Offensive+Security+Developer;%E2%96%BA+Red+Team+Operator+%7C+Ethical+Hacker;%E2%96%BA+Building+Tools+from+Scratch;%E2%96%BA+Educating+the+Next+Generation+of+Cybersecurity+Experts;%E2%96%BA+Iran+%F0%9F%87%AE%F0%9F%87%B7+%7C+Yakuza+Cyber+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=180&lines=%E2%96%BA+Offensive+Security+Developer;%E2%96%BA+Red+Team+Operator+%7C+Ethical+Hacker;%E2%96%BA+Building+Tools+from+Scratch;%E2%96%BA+Educating+the+Next+Generation+of+Cybersecurity+Experts;%E2%96%BA+Iran+%F0%9F%87%AE%F0%9F%87%B7+%7C+Yakuza+Cyber+Security" alt="Typing SVG" />
 
 <!-- Animated Glitch Decoration -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" alt="" />
@@ -17,13 +18,13 @@
 [![YouTube](https://img.shields.io/badge/📺_YouTube-@DavoodSec-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DavoodSec)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-davoodya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davoodya)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@davoodsec-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davoodsec)
-[![Telegram DM](https://img.shields.io/badge/🔷_Telegram-@davoodsec-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodyahay)
-[![Telegram Channel](https://img.shields.io/badge/🔷_Telegram-@davoodsec-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodsec)
+[![Telegram DM](https://img.shields.io/badge/🔷_Telegram-DM-@davoodyahay-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodyahay)
+[![Telegram Channel](https://img.shields.io/badge/🔷_Telegram-Channel-@davoodsec-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodsec)
 
 <br>
 
 <!-- Profile Views Counter -->
-[![Profile Viewl](https://img.shields.io/badge/🥷⭐_Github Views-@davoodya?style=for-the-badge&logo=github&logoColor=white)](https://t.me/davoodsec)
+[![Profile Views](https://img.shields.io/badge/🥷_GitHub_Views-394-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717)](https://github.com/davoodya)
 
 
 ---
@@ -67,38 +68,126 @@
 
 ---
 
+<!-- Snake Animation -->
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/davoodya/davoodya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" />
+<img src="https://raw.githubusercontent.com/davoodya/davoodya/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" />
+
+</div>
+
+---
 ## 🔥 Featured Projects
 
 <div align="center">
 
 ### 🔐 C2 / Backdoor Systems
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| [🗡️ C2-YakuzaDesign](https://github.com/davoodya/C2-YakuzaDesign) | Modular Python C2 framework for post-exploitation & training | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Release V2 |
-| [👁️ YakuzaBackdoor_Undetectable](https://github.com/davoodya/YakuzaBackdoor_Undetectable) | Stealth backdoor prototype with encoded payload | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Release V1 |
+
+<table align="center" width="100%">
+  <tr>
+    <th width="22%">Project</th>
+    <th width="42%">Description</th>
+    <th width="18%">Tech</th>
+    <th width="18%">Status</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/davoodya/C2-YakuzaDesign">🗡️ C2-YakuzaDesign</a></td>
+    <td>Modular Python C2 framework for post-exploitation & training</td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Release_V2-00FF41?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/davoodya/YakuzaBackdoor_Undetectable">👁️ YakuzaBackdoor_Undetectable</a></td>
+    <td>Stealth backdoor prototype with encoded payload</td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Release_V1-00FF41?style=flat-square" /></td>
+  </tr>
+</table>
+
+<br>
 
 ### 🧨 Cracking & Pentest Tools
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| [🔓 YakuzaCracker](https://github.com/davoodya/YakuzaCracker) | Brute-force/dictionary password and file cracking tool | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Release V1.5 |
-| [⚫ pythonInBlack](https://github.com/davoodya/pythonInBlack) | Pentest scripts & utilities in Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Release V2.1 |
+
+<table align="center" width="100%">
+  <tr>
+    <th width="22%">Project</th>
+    <th width="42%">Description</th>
+    <th width="18%">Tech</th>
+    <th width="18%">Status</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/davoodya/YakuzaCracker">🔓 YakuzaCracker</a></td>
+    <td>Brute-force/dictionary password and file cracking tool</td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Release_V1.5-00FF41?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/davoodya/pythonInBlack">⚫ pythonInBlack</a></td>
+    <td>Pentest scripts & utilities in Python</td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Release_V2.1-00FF41?style=flat-square" /></td>
+  </tr>
+</table>
+
+<br>
 
 ### 🔄 Sync & Remote Control
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| [🔄 Syncer](https://github.com/davoodya/Syncer) | Share clipboard and files between Linux & Windows using hotkeys | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Release V3.1 |
-| [🎬 OBS-Controller](https://github.com/davoodya/obs-controller) | Tkinter GUI Panel for controlling OBS Studio externally | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Release V1.1 |
+
+<table align="center" width="100%">
+  <tr>
+    <th width="22%">Project</th>
+    <th width="42%">Description</th>
+    <th width="18%">Tech</th>
+    <th width="18%">Status</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/davoodya/Syncer">🔄 Syncer</a></td>
+    <td>Share clipboard and files between Linux & Windows using hotkeys</td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Release_V3.1-00FF41?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/davoodya/obs-controller">🎬 OBS-Controller</a></td>
+    <td>Tkinter GUI Panel for controlling OBS Studio externally</td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Release_V1.1-00FF41?style=flat-square" /></td>
+  </tr>
+</table>
+
+<br>
 
 ### 🔐 Ransomware POC & Malware R&D 🧪
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| 🦠 **Professional Ransomware (POC)** | Triple encryption (AES + RSA-4096 + Custom XOR), self-protection, interval deletion, EXE/ZIP hiding | 🔒 Private | Release V4.1 |
-| 🧪 **Malware Analysis Lab** | Custom-built analysis environment for reverse engineering and behavior analysis | 🔒 Private | In Progress |
+
+<table align="center" width="100%">
+  <tr>
+    <th width="22%">Project</th>
+    <th width="42%">Description</th>
+    <th width="18%">Tech</th>
+    <th width="18%">Status</th>
+  </tr>
+  <tr>
+    <td align="center">🦠 <b>Professional Ransomware (POC)</b></td>
+    <td>Triple encryption (AES + RSA-4096 + Custom XOR), self-protection, interval deletion, EXE/ZIP hiding</td>
+    <td align="center"><img src="https://img.shields.io/badge/Private-FF0000?style=flat-square&logo=lock&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Release_V4.1-FF0000?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td align="center">🧪 <b>Malware Analysis Lab</b></td>
+    <td>Custom-built analysis environment for reverse engineering and behavior analysis</td>
+    <td align="center"><img src="https://img.shields.io/badge/Private-FF0000?style=flat-square&logo=lock&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/In_Progress-FFA500?style=flat-square" /></td>
+  </tr>
+</table>
+
+<br>
 
 > ⚠️ **Note:** Ransomware & malware projects are strictly for **educational POC purposes only** and are not publicly available.
+>
 > ⚠️ **Disclaimer:** All tools and code in this GitHub are for **educational, lab usage and authorized environments only**. Use of any tool without permission is strictly prohibited and against the law.
-</div>
 
+</div>
 ---
 
 ## 🧰 Arsenal & Tech Stack
@@ -165,8 +254,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@DavoodSec)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://davoodya.ir)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davoodsec)
-[![Telegram-Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodsec)
-[![Telegram-DM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodyahay)
+[![Telegram-DM](https://img.shields.io/badge/Telegram-DM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodyahay)
+[![Telegram-Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodsec)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davoodyahay@gmail.com)
 
 
@@ -184,17 +273,6 @@
 
 ---
 
-<!-- Snake Animation -->
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/davoodya/davoodya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" />
-<img src="https://raw.githubusercontent.com/davoodya/davoodya/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" />
-
-</div>
-
----
 
 <!-- Footer -->
 <div align="center">
