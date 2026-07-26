@@ -71,7 +71,7 @@ I specialize in creating **offensive security tools** and **educational content*
 - 📸 Instagram: [@davoodsec](https://instagram.com/davoodsec)
 - 📧 Email: davoodyahay@gmail.com
 - 📥 Telegram DM: [t.me/davoodyahay](https://t.me/davoodsec)
-- 📥 Telegram Chanel: [t.me/yakuzacybersec](https://t.me/davoodsec)
+- 📥 Telegram Channel: [t.me/yakuzacybersec](https://t.me/davoodsec)
 
 ---
 
