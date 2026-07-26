@@ -5,7 +5,16 @@
 <!-- RED FF0000 -->
 <!-- Green 00FF41 -->
 <!-- Animated Glitch + Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=180&lines=%E2%96%BA+Offensive+Security+Developer;%E2%96%BA+Red+Team+Operator+%7C+Ethical+Hacker;%E2%96%BA+Building+Tools+from+Scratch;%E2%96%BA+Educating+the+Next+Generation+of+Cybersecurity+Experts;%E2%96%BA+Iran+%F0%9F%87%AE%F0%9F%87%B7+%7C+Yakuza+Cyber+Security" alt="Typing SVG" />
+<!-- Animated Typing Lines - Alternating Pastel Colors -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=45&lines=%E2%96%BA+Offensive+Security+Developer" alt="Line 1" />
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=69DB7C&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=45&lines=%E2%96%BA+Red+Team+Operator+%7C+Ethical+Hacker" alt="Line 2" />
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=45&lines=%E2%96%BA+Building+Tools+from+Scratch" alt="Line 3" />
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=69DB7C&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=45&lines=%E2%96%BA+Educating+the+Next+Generation+of+Cybersecurity+Experts" alt="Line 4" />
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=45&lines=%E2%96%BA+Iran+%F0%9F%87%AE%F0%9F%87%B7+%7C+Yakuza+Cyber+Security" alt="Line 5" />
 
 <!-- Animated Glitch Decoration -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" alt="" />
@@ -18,8 +27,8 @@
 [![YouTube](https://img.shields.io/badge/📺_YouTube-@DavoodSec-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DavoodSec)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-davoodya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davoodya)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@davoodsec-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davoodsec)
-[![Telegram DM](https://img.shields.io/badge/🔷_Telegram-DM-@davoodyahay-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodyahay)
-[![Telegram Channel](https://img.shields.io/badge/🔷_Telegram-Channel-@davoodsec-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodsec)
+[![Telegram DM](https://img.shields.io/badge/💬_Telegram_DM-@davoodyahay-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodyahay)
+[![Telegram Channel](https://img.shields.io/badge/📢_Telegram_Channel-@davoodsec-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodsec)
 
 <br>
 
@@ -85,12 +94,12 @@
 
 ### 🔐 C2 / Backdoor Systems
 
-<table align="center" width="100%">
+<table align="center">
   <tr>
-    <th width="22%">Project</th>
-    <th width="42%">Description</th>
-    <th width="18%">Tech</th>
-    <th width="18%">Status</th>
+    <th width="200">Project</th>
+    <th width="420">Description</th>
+    <th width="120">Tech</th>
+    <th width="120">Status</th>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/davoodya/C2-YakuzaDesign">🗡️ C2-YakuzaDesign</a></td>
@@ -110,12 +119,12 @@
 
 ### 🧨 Cracking & Pentest Tools
 
-<table align="center" width="100%">
+<table align="center">
   <tr>
-    <th width="22%">Project</th>
-    <th width="42%">Description</th>
-    <th width="18%">Tech</th>
-    <th width="18%">Status</th>
+    <th width="200">Project</th>
+    <th width="420">Description</th>
+    <th width="120">Tech</th>
+    <th width="120">Status</th>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/davoodya/YakuzaCracker">🔓 YakuzaCracker</a></td>
@@ -135,12 +144,12 @@
 
 ### 🔄 Sync & Remote Control
 
-<table align="center" width="100%">
+<table align="center">
   <tr>
-    <th width="22%">Project</th>
-    <th width="42%">Description</th>
-    <th width="18%">Tech</th>
-    <th width="18%">Status</th>
+    <th width="200">Project</th>
+    <th width="420">Description</th>
+    <th width="120">Tech</th>
+    <th width="120">Status</th>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/davoodya/Syncer">🔄 Syncer</a></td>
@@ -160,12 +169,12 @@
 
 ### 🔐 Ransomware POC & Malware R&D 🧪
 
-<table align="center" width="100%">
+<table align="center">
   <tr>
-    <th width="22%">Project</th>
-    <th width="42%">Description</th>
-    <th width="18%">Tech</th>
-    <th width="18%">Status</th>
+    <th width="200">Project</th>
+    <th width="420">Description</th>
+    <th width="120">Tech</th>
+    <th width="120">Status</th>
   </tr>
   <tr>
     <td align="center">🦠 <b>Professional Ransomware (POC)</b></td>
@@ -263,17 +272,6 @@
 
 ---
 
-## 🏷️ Tags
-
-<div align="center">
-
-`#ethicalhacking` `#offensivesecurity` `#redteam` `#python` `#c2framework` `#malwareanalysis` `#cybersecurity` `#networksecurity` `#pentest` `#reverseengineering` `#ransomware` `#backdoor` `#exploitation`
-
-</div>
-
----
-
-
 <!-- Footer -->
 <div align="center">
 
@@ -284,3 +282,13 @@
 > ⚠️ **Disclaimer:** All tools and code in this GitHub are for **educational, lab usage and authorized environments only**. Use of any tool without permission is strictly prohibited and against the law.
 
 </div>
+----
+## 🏷️ Tags
+
+<div align="center">
+
+`#ethicalhacking` `#offensivesecurity` `#redteam` `#python` `#c2framework` `#malwareanalysis` `#cybersecurity` `#networksecurity` `#pentest` `#reverseengineering` `#ransomware` `#backdoor` `#exploitation`
+
+</div>
+
+---
