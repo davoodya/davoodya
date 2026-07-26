@@ -2,89 +2,101 @@
 
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:000000&height=250&section=header&text=DavoodSec&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20Developer%20%7C%20Cybersecurity%20Instructor%20%7C%20Security%20Tool%20Creator&descAlignY=55&descSize=18" width="100%" />
+<!-- FF0000 -->
+<!-- Animated Glitch + Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=160&lines=%E2%96%BA+Offensive+Security+Developer;%E2%96%BA+Red+Team+Operator+%7C+Ethical+Hacker;%E2%96%BA+Building+Tools+from+Scratch;%E2%96%BA+Educating+the+Next+Generation+of+Cybersecurity+Experts;%E2%96%BA+Iran+%F0%9F%87%AE%F0%9F%87%B7+%7C+Yakuza+Cyber+Security" alt="Typing SVG" />
 
-<!-- Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Offensive+Security+Developer;Red+Team+Operator+%7C+Ethical+Hacker;Building+Tools+from+Scratch;Educating+the+Next+Generation+of+Cybersecurity+Experts;Iran+%F0%9F%87%AE%F0%9F%87%B7+%7C+Yakuza+Cyber+Security" alt="Typing SVG" />
+<!-- Animated Glitch Decoration -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" alt="" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVhY2QyYzJ6dGxrMnFkNHV4NHc5eHRjcmt6b2RneXppN25sZDFxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXz4S2FDi/giphy.gif" width="120" />
 
-<br><br>
+<br>
 
 <!-- Social Badges with Shields -->
 [![Website](https://img.shields.io/badge/🌐_Website-davoodya.ir-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://davoodya.ir)
 [![YouTube](https://img.shields.io/badge/📺_YouTube-@DavoodSec-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DavoodSec)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-davoodya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davoodya)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@davoodsec-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davoodsec)
-[![Telegram](https://img.shields.io/badge/🔷_Telegram-@davoodsec-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodsec)
+[![Telegram DM](https://img.shields.io/badge/🔷_Telegram-@davoodsec-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodyahay)
+[![Telegram Channel](https://img.shields.io/badge/🔷_Telegram-@davoodsec-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodsec)
 
 <br>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=davoodya&color=red&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+[![Profile Viewl](https://img.shields.io/badge/🥷⭐_Github Views-@davoodya?style=for-the-badge&logo=github&logoColor=white)](https://t.me/davoodsec)
 
-</div>
-
----
-
-<!-- GitHub Trophies -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=davoodya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" />
-
-</div>
 
 ---
 
 ## 🚀 About Me
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│  [davoodsec@kali]~$ whoami                                          │
-│  └─> Davood Yahay | Red Team Developer | Cybersecurity Instructor   │
-│                                                                     │
-│  [davoodsec@kali]~$ cat mission.txt                                 │
-│  └─> Building offensive security tools & educational content        │
-│      for ethical hacking and system defense from scratch.            │
-│                                                                     │
-│  [davoodsec@kali]~$ echo $PHILOSOPHY                                │
-│  └─> "The best way to learn security is by building it from scratch"│
-│                                                                     │
-│  [davoodsec@kali]~$ neofetch                                         │
-│  ┌─────────────────────────────────────────────────────────────┐   │
-│  │  OS: Kali Linux / Windows / Ubuntu                          │   │
-│  │  Shell: Python / C++ / C#                                   │   │
-│  │  WM: Offensive Security                                     │   │
-│  │  Location: Iran 🇮🇷                                          │   │
-│  │  Alias: DavoodSec | Yakuza Cyber Security                   │   │
-│  └─────────────────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────────┐
+│  [davoodsec@kali]~$ whoami                                                │
+│  └─> Davood Yahay | Red Team Developer | Cybersecurity Instructor         │
+│                                                                           │
+│  [davoodsec@kali]~$ cat mission.txt                                       │
+│  └─> Building offensive security tools & educational content              │
+│      for ethical hacking and system defense from scratch.                 │
+│                                                                           │
+│  [davoodsec@kali]~$ echo $PHILOSOPHY                                      │
+│  └─> "The best way to learn security is by building it from scratch"      │
+│                                                                           │
+│  [davoodsec@kali]~$ neofetch                                              │
+│  ┌─────────────────────────────────────────────────────────────┐          │
+│  │  OS: Kali Linux / Windows / Ubuntu                          │          │
+│  │  Shell: Python / C++ / C#                                   │          │
+│  │  WM: Offensive Security                                     │          │
+│  │  Location: Iran                                             │          |
+│  │  Alias: DavoodSec | Yakuza Cyber Security                   │          │
+│  └─────────────────────────────────────────────────────────────┘          |
+│                                                                           │
+|  [davoodsec@kali]~$ cat skills.txt                                        |
+|   Offensive Security    ████████████████████████████████████████  95%     |
+|   Python Development    ██████████████████████████████████████░░░░  90%   |
+|   Reverse Engineering   ████████████████████████████████████░░░░░░  85%   |
+|   Network Security      █████████████████████████████████████░░░░░  88%   |
+|   Malware Analysis      ████████████████████████████████████░░░░░░  85%   |
+|   C/C++ Development     ████████████████████████████████░░░░░░░░░░  75%   |
+|   C# Development        ██████████████████████████████░░░░░░░░░░░░  70%   |
+|   Linux Administration  ██████████████████████████████████████░░░░  90%   |
+|   Windows Internals     ████████████████████████████████████░░░░░░  85%   |
+|   Automation & Scripting██████████████████████████████████████░░░░  92%   |
+└───────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 Featured Projects
 
 <div align="center">
 
-<!-- Stats Cards Row -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=davoodya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&count_private=true&include_all_commits=true" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davoodya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&langs_count=10" width="100%" />
-    </td>
-  </tr>
-</table>
+### 🔐 C2 / Backdoor Systems
+| Project | Description | Tech | Status |
+|---------|-------------|------|--------|
+| [🗡️ C2-YakuzaDesign](https://github.com/davoodya/C2-YakuzaDesign) | Modular Python C2 framework for post-exploitation & training | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Release V2 |
+| [👁️ YakuzaBackdoor_Undetectable](https://github.com/davoodya/YakuzaBackdoor_Undetectable) | Stealth backdoor prototype with encoded payload | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Release V1 |
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=davoodya&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=888888" width="85%" />
+### 🧨 Cracking & Pentest Tools
+| Project | Description | Tech | Status |
+|---------|-------------|------|--------|
+| [🔓 YakuzaCracker](https://github.com/davoodya/YakuzaCracker) | Brute-force/dictionary password and file cracking tool | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Release V1.5 |
+| [⚫ pythonInBlack](https://github.com/davoodya/pythonInBlack) | Pentest scripts & utilities in Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Release V2.1 |
 
-<br><br>
+### 🔄 Sync & Remote Control
+| Project | Description | Tech | Status |
+|---------|-------------|------|--------|
+| [🔄 Syncer](https://github.com/davoodya/Syncer) | Share clipboard and files between Linux & Windows using hotkeys | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Release V3.1 |
+| [🎬 OBS-Controller](https://github.com/davoodya/obs-controller) | Tkinter GUI Panel for controlling OBS Studio externally | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Release V1.1 |
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davoodya&theme=redical&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF000033" width="95%" />
+### 🔐 Ransomware POC & Malware R&D 🧪
+| Project | Description | Tech | Status |
+|---------|-------------|------|--------|
+| 🦠 **Professional Ransomware (POC)** | Triple encryption (AES + RSA-4096 + Custom XOR), self-protection, interval deletion, EXE/ZIP hiding | 🔒 Private | Release V4.1 |
+| 🧪 **Malware Analysis Lab** | Custom-built analysis environment for reverse engineering and behavior analysis | 🔒 Private | In Progress |
 
+> ⚠️ **Note:** Ransomware & malware projects are strictly for **educational POC purposes only** and are not publicly available.
+> ⚠️ **Disclaimer:** All tools and code in this GitHub are for **educational, lab usage and authorized environments only**. Use of any tool without permission is strictly prohibited and against the law.
 </div>
 
 ---
@@ -130,61 +142,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-### 🔐 C2 / Backdoor Systems
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🗡️ C2-YakuzaDesign](https://github.com/davoodya/C2-YakuzaDesign) | Modular Python C2 framework for post-exploitation & training | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [👁️ YakuzaBackdoor_Undetectable](https://github.com/davoodya/YakuzaBackdoor_Undetectable) | Stealth backdoor prototype with encoded payload | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
-### 🧨 Cracking & Pentest Tools
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🔓 YakuzaCracker](https://github.com/davoodya/YakuzaCracker) | Brute-force/dictionary password and file cracking tool | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [⚫ pythonInBlack](https://github.com/davoodya/pythonInBlack) | Pentest scripts & utilities in Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
-### 🔄 Sync & Remote Control
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🔄 Syncer](https://github.com/davoodya/Syncer) | Share clipboard and files between Linux & Windows using hotkeys | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [🎬 OBS-Controller](https://github.com/davoodya/obs-controller) | Tkinter GUI Panel for controlling OBS Studio externally | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
-### 🔐 Ransomware POC & Malware R&D 🧪
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🦠 **Professional Ransomware (POC)** | Triple encryption (AES + RSA-4096 + Custom XOR), self-protection, interval deletion, EXE/ZIP hiding | 🔒 Private |
-| 🧪 **Malware Analysis Lab** | Custom-built analysis environment for reverse engineering and behavior analysis | 🔒 Private |
-
-> ⚠️ **Note:** Ransomware & malware projects are strictly for **educational POC purposes only** and are not publicly available.
-
-</div>
-
----
-
-## 🎯 Skill Matrix
-
-<div align="center">
-
-```text
-Offensive Security    ████████████████████████████████████████  95%
-Python Development    ██████████████████████████████████████░░░░  90%
-Reverse Engineering   ████████████████████████████████████░░░░░░  85%
-Network Security      █████████████████████████████████████░░░░░  88%
-Malware Analysis      ████████████████████████████████████░░░░░░  85%
-C/C++ Development     ████████████████████████████████░░░░░░░░░░  75%
-C# Development        ██████████████████████████████░░░░░░░░░░░░░░  70%
-Linux Administration  ██████████████████████████████████████░░░░  90%
-Windows Internals     ████████████████████████████████████░░░░░░  85%
-Automation & Scripting██████████████████████████████████████░░░░  92%
-```
-
-</div>
-
----
-
 ## 📺 Content & Education
 
 <div align="center">
@@ -192,7 +149,8 @@ Automation & Scripting███████████████████�
 | Platform | Content | Link |
 |----------|---------|------|
 | 🎥 **YouTube** | Tutorials, Tool Demos, Walkthroughs | [@DavoodSec](https://www.youtube.com/@DavoodSec) |
-| 📘 **Blog** | Articles, Guides, Writeups | [davoodya.ir](https://davoodya.ir/pages/articles) |
+| 📘 **Blog** | Articles, Guides, Writeups | [davoodya.ir/articles](https://davoodya.ir/pages/articles) |
+| 📘 **My Portfolio** | Certificates, Skills, Projects, ... | [davoodya.ir](https://davoodya.ir/) |
 | 📦 **GitHub** | Open Source Tools & Projects | [github.com/davoodya](https://github.com/davoodya) |
 | 📢 **Telegram Channel** | Cybersecurity News & Updates | [t.me/yakuzacybersec](https://t.me/davoodsec) |
 
@@ -205,10 +163,12 @@ Automation & Scripting███████████████████�
 <div align="center">
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@DavoodSec)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davoodsec)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodsec)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davoodyahay@gmail.com)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://davoodya.ir)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davoodsec)
+[![Telegram-Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodsec)
+[![Telegram-DM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davoodyahay)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davoodyahay@gmail.com)
+
 
 </div>
 
