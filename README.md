@@ -34,38 +34,38 @@
 ## 🚀 About Me
 
 ```
-            ┌─────────────────────────────────────────────────────────────────────────────┐
-            │  [davoodsec@kali]~$ whoami                                                  │
-            │  └─> Davood Yahay | Red Team Developer | Cybersecurity Instructor           │
-            │                                                                             │
-            │  [davoodsec@kali]~$ cat mission.txt                                         │
-            │  └─> Building offensive security tools & educational content                │
-            │      for ethical hacking and system defense from scratch.                   │
-            │                                                                             │
-            │  [davoodsec@kali]~$ echo $PHILOSOPHY                                        │
-            │  └─> "The best way to learn security is by building it from scratch"        │
-            │                                                                             │
-            │  [davoodsec@kali]~$ neofetch                                                │
-            │  ┌─────────────────────────────────────────────────────────────┐            │
-            │  │  OS: Kali Linux / Windows / Ubuntu                          │            │
-            │  │  Shell: Python / C++ / C#                                   │            │
-            │  │  WM: Offensive Security                                     │            │
-            │  │  Location: Iran                                             │            |
-            │  │  Alias: DavoodSec | Yakuza Cyber Security                   │            │
-            │  └─────────────────────────────────────────────────────────────┘            |
-            │                                                                             │
-            │  [davoodsec@kali]~$ cat skills.txt                                          |
-            │   Offensive Security      ████████████████████████████████████████  95%     |
-            │   Python Development      ██████████████████████████████████████░░░░  90%   |
-            │   Reverse Engineering     ████████████████████████████████████░░░░░░  85%   |
-            │   Network Security        █████████████████████████████████████░░░░░  88%   |
-            │   Malware Analysis        ████████████████████████████████████░░░░░░  85%   |
-            │   C/C++ Development       ████████████████████████████████░░░░░░░░░░  75%   |
-            │   C# Development          ██████████████████████████████░░░░░░░░░░░░  70%   |
-            │   Linux Administration    ██████████████████████████████████████░░░░  90%   |
-            │   Windows Internals       ████████████████████████████████████░░░░░░  85%   |
-            │   Automation & Scripting  ██████████████████████████████████████░░░░  92%   |
-            └─────────────────────────────────────────────────────────────────────────────┘
+    ┌─────────────────────────────────────────────────────────────────────────────┐
+    │  [davoodsec@kali]~$ whoami                                                  │
+    │  └─> Davood Yahay | Red Team Developer | Cybersecurity Instructor           │
+    │                                                                             │
+    │  [davoodsec@kali]~$ cat mission.txt                                         │
+    │  └─> Building offensive security tools & educational content                │
+    │      for ethical hacking and system defense from scratch.                   │
+    │                                                                             │
+    │  [davoodsec@kali]~$ echo $PHILOSOPHY                                        │
+    │  └─> "The best way to learn security is by building it from scratch"        │
+    │                                                                             │
+    │  [davoodsec@kali]~$ neofetch                                                │
+    │  ┌─────────────────────────────────────────────────────────────┐            │
+    │  │  OS: Kali Linux / Windows / Ubuntu                          │            │
+    │  │  Shell: Python / C++ / C#                                   │            │
+    │  │  WM: Offensive Security                                     │            │
+    │  │  Location: Iran                                             │            |
+    │  │  Alias: DavoodSec | Yakuza Cyber Security                   │            │
+    │  └─────────────────────────────────────────────────────────────┘            |
+    │                                                                             │
+    │  [davoodsec@kali]~$ cat skills.txt                                          |
+    │   Offensive Security      ████████████████████████████████████████  95%     |
+    │   Python Development      ██████████████████████████████████████░░░░  90%   |
+    │   Reverse Engineering     ████████████████████████████████████░░░░░░  85%   |
+    │   Network Security        █████████████████████████████████████░░░░░  88%   |
+    │   Malware Analysis        ████████████████████████████████████░░░░░░  85%   |
+    │   C/C++ Development       ████████████████████████████████░░░░░░░░░░  75%   |
+    │   C# Development          ██████████████████████████████░░░░░░░░░░░░  70%   |
+    │   Linux Administration    ██████████████████████████████████████░░░░  90%   |
+    │   Windows Internals       ████████████████████████████████████░░░░░░  85%   |
+    │   Automation & Scripting  ██████████████████████████████████████░░░░  92%   |
+    └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br>
