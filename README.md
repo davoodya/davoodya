@@ -160,6 +160,45 @@
 
 <br>
 
+<br>
+
+### 📜 PowerShell Modules & Scripts
+
+<table align="center">
+  <tr>
+    <th width="200">Project</th>
+    <th width="420">Description</th>
+    <th width="120">Tech</th>
+    <th width="120">Status</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/davoodya/NppCLI-PWSH">📝 NppCLI</a></td>
+    <td>Interact with Notepad++ from terminal (open, create, edit like vim)</td>
+    <td align="center"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Release-69DB7C?style=flat-square&labelColor=0D1117" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/davoodya/YTDLP-CheatSheet-PWSH">📋 YTDLP-CheatSheet</a></td>
+    <td>Interactive cheatsheet for yt-dlp commands with menu navigation</td>
+    <td align="center"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Release-69DB7C?style=flat-square&labelColor=0D1117" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/davoodya/YTDLP-Executer-PWSH">🚀 YTDLP-Executer</a></td>
+    <td>Interactive yt-dlp executor with sub-menus for video, audio, subtitle & playlist downloads</td>
+    <td align="center"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Release-69DB7C?style=flat-square&labelColor=0D1117" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/davoodya/PowershellScripts">⚡ PowerShell Script Collection</a></td>
+    <td>Collection of PowerShell scripts for Automation, Security, and more</td>
+    <td align="center"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Active-69DB7C?style=flat-square&labelColor=0D1117" /></td>
+  </tr>
+</table>
+
+<br>
+
 ### 🔐 Ransomware POC & Malware R&D 🧪
 
 <table align="center">
