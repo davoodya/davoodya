@@ -175,13 +175,13 @@
     <td align="center"><a href="https://github.com/davoodya/NppCLI-PWSH">📝 NppCLI</a></td>
     <td>Interact with Notepad++ from terminal (open, create, edit like vim)</td>
     <td align="center"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Release-69DB7C?style=flat-square&labelColor=0D1117" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Release_V4.1-69DB7C?style=flat-square&labelColor=0D1117" /></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/davoodya/YTDLP-CheatSheet-PWSH">📋 YTDLP-CheatSheet</a></td>
     <td>Interactive cheatsheet for yt-dlp commands with menu navigation</td>
     <td align="center"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Release-69DB7C?style=flat-square&labelColor=0D1117" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Release_V2.1-69DB7C?style=flat-square&labelColor=0D1117" /></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/davoodya/YTDLP-Executer-PWSH">🚀 YTDLP-Executer</a></td>
